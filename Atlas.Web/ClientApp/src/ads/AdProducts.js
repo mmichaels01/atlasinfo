@@ -1,0 +1,22 @@
+export const amazonAsins =  [
+    'B01N5OKGLH',
+    'B07HCZ7LPW',
+    'B07DJRFSL1',
+    'B00DBF81JS',
+    'B019AKA6YU',
+    'B00634Z6BA',
+    'B01KVZBNY0',
+    'B07JB58VK6',
+    'B07GHVWMBS',
+    'B07HCY7K9L',
+    'B0757Y9V47',
+    'B07598VZR8',
+    'B0134EW7G8',
+    'B0781Z7Y3S',
+    'B01LYNEIEI',
+    'B078LJ6RPK',
+    'B00KK8ZLEC',
+    'B01LDTP46G',
+    'B078VM929R',
+    'B06WRP3F5S'
+];
