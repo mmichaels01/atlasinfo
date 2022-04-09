@@ -6,7 +6,7 @@
     "@material-ui/core": "^3.9.0",
     "@material-ui/icons": "^3.0.2",
     "leaflet": "^1.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "postscribe": "^2.0.8",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
